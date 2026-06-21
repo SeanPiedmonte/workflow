@@ -32,6 +32,8 @@ return {
                 "clangd",
                 "pyright",
                 "gopls",
+                "protols",
+                "postgres_lsp",
             },
             handlers = {
                 function(server_name) -- default handler (optional)
