@@ -111,7 +111,7 @@ Media, volume and brightness keys are bound through `wpctl`, `playerctl` and `br
 
 ## Waybar
 
-A top bar with Hyprland workspaces on the left, a clock in the centre, and the tray, CPU and memory on the right. `style.css` is the active theme; `style.css-2` is an alternative kept for reference.
+A top bar with Hyprland workspaces on the left, a clock in the centre, and the tray, CPU, memory, network and audio on the right. `style.css` is the active theme; `style.css-2` is an alternative kept for reference.
 
 ## Requirements
 
